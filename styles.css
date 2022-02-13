@@ -2,6 +2,11 @@ body {
   background-color: black;
 }
 
-h1 {
-  color: whitesmoke;
+body {
+  color: greenyellow;
+}
+
+img {
+  width: 400px
+  height: auto
 }
